@@ -1,54 +1,49 @@
-# 🛡️ SECURITY PROFILE
+<div align="center">
 
-> STATUS: ONLINE
+# 👋 Hi, I'm Isadora Umlauf
 
-👩 Operator: Isadora Umlauf
+### 💻 IT Technical Apprentice
+### 🔐 Aspiring Cybersecurity Professional
 
-Location: Brazil
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Cybersecurity+Student;Java+Developer;Networking+Enthusiast;Always+Learning..." />
 
-Role: IT Technical Apprentice
-
-Focus: Cybersecurity
-
-Current Mission:
-✔ Network Security
-✔ Malware Analysis
-✔ Windows Server
-✔ Active Directory
-✔ Ethical Hacking
+</div>
 
 ---
 
-### Arsenal
+## 👩🏻 About Me
 
-💻 Java
-
-🌐 JavaScript
-
-☕ Spring Boot
-
-🐧 Linux
-
-📦 Docker
-
-🔍 Wireshark
-
-📡 Nmap
-
-💣 Kali Linux
-
-🖥 Windows Server
+- 🎓 Software Development Student
+- 💼 IT Technical Apprentice
+- 🔐 Focusing on Cybersecurity
+- 🌐 Learning Networking & Infrastructure
+- 🚩 Studying for CTFs
+- ☕ Java Back-end Developer
 
 ---
 
-### Objectives
+## ⚡ Tech Stack
 
-□ Improve Red Team skills
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,github,docker,linux,vscode" />
+</p>
 
-□ Earn Cybersecurity Certifications
+---
 
-□ Participate in CTFs
+## 🛡️ Cybersecurity
 
-□ Publish Cybersecurity Projects
+<p align="center">
 
-□ Build Security Labs
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+
+<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
+
+</p>
+
+---
