@@ -56,14 +56,16 @@ Currently I am:
   <img src="https://skillicons.dev/icons?i=spring,git,github,docker,vscode,idea,wireshark,linux" /> 
 </p>
 
+### 🔐 Cybersecurity Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 --- 
-
-## 📚 Currently Working On 
-
-- 🔒 Cybersecurity Labs
-- 🌐 Networking Projects
-- ☕ Java Backend Development
-- 🧪 Security Research ---
 
 <div align="center">
   
