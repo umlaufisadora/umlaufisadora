@@ -1,49 +1,76 @@
-<div align="center">
+````markdown
+# 💻 PROFESSIONAL PROFILE
 
-# 👋 Hi, I'm Isadora Umlauf
+> **Status:** Learning & Building 🚀
 
-### 💻 IT Technical Apprentice
-### 🔐 Aspiring Cybersecurity Professional
+👤 **Name:** Isadora Umlauf
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Cybersecurity+Student;Java+Developer;Networking+Enthusiast;Always+Learning..." />
+💼 **Role:** IT Technical Apprentice
 
-</div>
+🎓 **Education:** Software Development Student
 
----
+🔐 **Focus:** Cybersecurity
 
-## 👩🏻 About Me
-
-- 🎓 Software Development Student
-- 💼 IT Technical Apprentice
-- 🔐 Focusing on Cybersecurity
-- 🌐 Learning Networking & Infrastructure
-- 🚩 Studying for CTFs
-- ☕ Java Back-end Developer
+📍 **Location:** Brazil
 
 ---
 
-## ⚡ Tech Stack
+## 📚 Current Focus
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,github,docker,linux,vscode" />
-</p>
+✔ Network Security
+
+✔ Windows Server
+
+✔ Active Directory
+
+✔ Malware Analysis Fundamentals
+
+✔ Ethical Hacking
+
+✔ Software Development
+
+---
+
+## 🛠️ Technologies
+
+```text
+Programming
+├── Java
+├── JavaScript
+├── HTML
+├── CSS
+└── SQL
+
+Development
+├── Spring Boot
+├── Git
+├── Docker
+└── Linux
+
+Cybersecurity
+├── Wireshark
+├── Nmap
+├── Kali Linux
+├── Windows Server
+├── VirtualBox
+└── Networking
+```
 
 ---
 
-## 🛡️ Cybersecurity
+## 🎯 Goals
 
-<p align="center">
+□ Strengthen cybersecurity skills
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+□ Earn professional certifications
 
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge">
+□ Participate in Capture The Flag challenges
 
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+□ Build practical security projects
 
-<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
-
-</p>
+□ Contribute to open-source projects
 
 ---
+
+> *"Tell me and I forget, teach me and I may remember, involve me and I learn." - Benjamin Franklin*
+````
