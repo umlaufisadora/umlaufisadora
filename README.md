@@ -53,7 +53,7 @@ Currently I am:
 
 ### Frameworks & Tools 
 <p> 
-  <img src="https://skillicons.dev/icons?i=spring,git,github,docker,vscode,idea,wireshark,linux" /> 
+  <img src="https://skillicons.dev/icons?i=spring,git,github,docker,vscode,idea,linux" /> 
 </p>
 
 ### 🔐 Cybersecurity Tools
