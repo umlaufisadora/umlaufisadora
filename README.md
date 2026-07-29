@@ -4,7 +4,7 @@
 
 ### IT Technical Apprentice • Software Development Student • Aspiring Cybersecurity Professional 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Future+Red+Teamer;Software+Developer;Always+Learning" /> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1F1F1F&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Future+Red+Teamer;Software+Developer;Always+Learning" />
 
 </div>
 
