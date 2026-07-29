@@ -66,18 +66,15 @@ Currently I am:
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wireshark/wireshark-original.svg" width="48" title="Wireshark"/>
-</p>
 --- 
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true) 
+![](https://github-readme-stats.vercel.app/api?username=umlaufisadora&show_icons=true&theme=tokyonight&hide_border=true) 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=umlaufisadora&theme=tokyonight&hide_border=true) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=umlaufisadora&layout=compact&theme=tokyonight&hide_border=true) 
 
 </div>
 
