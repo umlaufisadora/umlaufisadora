@@ -53,7 +53,7 @@ Currently I am:
 
 ### Frameworks & Tools 
 <p> 
-  <img src="https://skillicons.dev/icons?i=spring,git,github,docker,vscode,idea,eclipse,linux" /> 
+  <img src="https://skillicons.dev/icons?i=spring,git,github,docker,vscode,idea,wireshark,linux" /> 
 </p>
 
 --- 
@@ -65,7 +65,6 @@ Currently I am:
 - ☕ Java Backend Development
 - 🧪 Security Research ---
 
-## 📈 GitHub Stats 
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true) 
