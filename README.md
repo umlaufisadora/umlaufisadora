@@ -1,87 +1,54 @@
-<div align="center"> 
-  
-# Hello, I'm Isadora Umlauf 👋 
+# 🛡️ SECURITY PROFILE
 
-### IT Technical Apprentice • Software Development Student • Aspiring Cybersecurity Professional 
+> STATUS: ONLINE
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=5BC0BE&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Future+Red+Teamer;Software+Developer;Always+Learning" />
+👩 Operator: Isadora Umlauf
 
-</div>
+Location: Brazil
 
---- 
+Role: IT Technical Apprentice
 
-## 👩‍💻 About Me 
+Focus: Cybersecurity
 
-I'm a Brazilian Software Development student and IT Technical Apprentice passionate about Cybersecurity. 
+Current Mission:
+✔ Network Security
+✔ Malware Analysis
+✔ Windows Server
+✔ Active Directory
+✔ Ethical Hacking
 
-My goal is to build a career in offensive security, malware analysis, digital forensics, and penetration testing while continuously improving my programming and infrastructure skills. 
+---
 
-Currently I am: 
+### Arsenal
 
-- 🎓 Studying Software Development
-- 💼 Working as an IT Technical Apprentice
-- 🔐 Focusing on Cybersecurity
-- 🌐 Improving my networking knowledge
-- 🚩 Preparing for Capture The Flag challenges
-- 📚 Always learning something new
+💻 Java
 
---- 
-## 🚀 Current Learning 
+🌐 JavaScript
 
-- Network Security
-- Linux Administration
-- Ethical Hacking
-- Windows Server
-- Active Directory
-- Java
-- Spring Boot
-- JavaScript
-- SQL
-- Docker
-- Virtualization
-- Malware Analysis Fundamentals
-  
---- 
+☕ Spring Boot
 
-## 🛠️ Technologies 
+🐧 Linux
 
-### Languages 
+📦 Docker
 
-<p> 
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,python,mysql" /> 
-</p> 
+🔍 Wireshark
 
-### Frameworks & Tools 
-<p> 
-  <img src="https://skillicons.dev/icons?i=spring,git,github,docker,vscode,idea,linux" /> 
-</p>
+📡 Nmap
 
-### 🔐 Cybersecurity Tools
+💣 Kali Linux
 
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
+🖥 Windows Server
 
---- 
+---
 
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=umlaufisadora&show_icons=true&theme=tokyonight&hide_border=true) 
+### Objectives
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=umlaufisadora&theme=tokyonight&hide_border=true) 
+□ Improve Red Team skills
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=umlaufisadora&layout=compact&theme=tokyonight&hide_border=true) 
+□ Earn Cybersecurity Certifications
 
-</div>
+□ Participate in CTFs
 
---- 
- <div align="center"> 
+□ Publish Cybersecurity Projects
 
-   > "Learning never exhausts the mind." - Leonardo da Vinci
-
-⭐ Thanks for visiting my profile!
-</div>
+□ Build Security Labs
